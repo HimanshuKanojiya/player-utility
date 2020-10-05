@@ -36,3 +36,6 @@ Press "B" to open the Menu.
 Note: This Project is under development right now, and lots of functionalities will come to incoming updates. 
 
 To get more updates on Player Utility, Please stay connected.
+
+Player Utility is officially available on:
+https://www.gta5-mods.com/scripts/player-utility-himanshukanojiya
