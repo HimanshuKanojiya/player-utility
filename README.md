@@ -1,6 +1,13 @@
 # Player Utility
 Player Utility, A single Player Mod, which you allow to enhance your player skills, spawn your favorite vehicle, categorized weapon section, and lot's of features that will make your gaming fun better.
 
+**Changes in Version 1.1:**
+1. Added Teleport to Waypoint Option.
+2. Added the Pool in the script so that whatever changes you do on bodyguards will be implemented to all.
+3. Added 3 Firing Patterns in bodyguard Firing Pattern Options (Full Auto, Burst In Cover, Burst Fire Rifle.
+4. Auto removal function to delete dead bodyguards.
+5. 8 more peds added in the bodyguard spawn ped option.
+
 **Here are the features of Player Utility Mod Ver 1.0:**
 1. Increase Health
 2. Equip Armor
