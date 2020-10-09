@@ -1,6 +1,14 @@
 # Player Utility
 Player Utility, A single Player Mod, which you allow to enhance your player skills, spawn your favorite vehicle, categorized weapon section, and lot's of features that will make your gaming fun better.
 
+**Changes in 1.2:**
+1. Bodyguard Set Max Health & Armor issue fixed.
+2. +3 Bikes Added.
+3. Bike Color Customization & Fixing issue fixed.
+4. Added the option to set bodyguard weapons (only work on spawned bodyguards.
+5. Added "Bring Anti Craft Trailer + Ped" option in the Bodyguards Menu
+Note: Before spawning the "Bring Anti Craft Trailer + Ped", Please look towards the place where you wanna spawn...
+
 **Changes in Version 1.1:**
 1. Added Teleport to Waypoint Option.
 2. Added the Pool in the script so that whatever changes you do on bodyguards will be implemented to all.
