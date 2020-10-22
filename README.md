@@ -1,6 +1,37 @@
 # Player Utility
 Player Utility, A single Player Mod, which you allow to enhance your player skills, spawn your favorite vehicle, categorized weapon section, and lot's of features that will make your gaming fun better.
 
+**Changes in 1.3:**
+1. Rewrote the player utility script to decrease obfuscation and to improve new versions flow.
+2. Vehicles related functions shifted to Vehicle options.
+3. Increase Heath, Get Armor, Become Most wanted, and reset wanted level moved to player options.
+4. Added the slider to set the wanted level as per your need.
+5. Added the enemy's menu to spawn enemy ped.
+   1. You can spawn enemies upto 10.
+   2. Currently, only SWAT Ped available.
+   3. Can set behavior, Neutral will wait until you shot them, Hate will change ped behavior to kill you after spawning.
+   4. Can change ped weapons after spawning
+   5. Automatically remove the dead ped from the game.
+
+**Note:** In an earlier version, the script was in one file. Incoming and current versions of mod divided into two parts:
+1. HsCore, it manages all heavy work, Game scripts, and bindings.
+2. PlayerUtility, it controls the GUI/Front End part to use the Hscore functions.
+
+**Requirement/Prerequisite to run 1.3 and for upcoming versions:**
+1. NativeUI (https://github.com/Guad/NativeUI/releases)
+2. Scripthookdotvnet2 (https://bit.ly/3oi6Elt)
+3. Scripthookv (http://www.dev-c.com/gtav/scripthookv/)
+4. .Net Framework (https://bit.ly/2IM4Bpw)
+
+**How to install PlayerUtility**
+1. Put NativeUI.dll in Scripts Folder
+2. Put HsCore.dll in Scripts Folder
+3. Put PlayerUtility in Scripts Folder
+
+**To use:**
+Press "B" to open the Menu.
+
+
 **Changes in 1.2:**
 1. Bodyguard Set Max Health & Armor issue fixed.
 2. +3 Bikes Added.
