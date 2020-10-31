@@ -29,7 +29,7 @@ Press "B" to open the Menu.
    1. Enable/Disable Thermal Vision, which helps you to find hidden ped.
    2. Enable/Disable Night Vision.
    3. Kill Nearby Peds, which will kill every nearby peds.
-   4. Blast Nearby Vehicles (Inspired by the GTA vice city cheat code "Bing Bang"), this function will blast all nearby vehicles.
+   4. Blast Nearby Vehicles (Inspired by the GTA vice city cheat code "Big Bang"), this function will blast all nearby vehicles.
 4. New options added in the vehicle customization:
    1. Disable Vehicle Radio, which will permanently block the radio for the only current vehicle.
    2. Burst the Tires.
