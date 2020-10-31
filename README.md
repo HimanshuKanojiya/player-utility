@@ -16,6 +16,7 @@ Player Utility, A single Player Mod, which you allow to enhance your player skil
 2. Put HsCore.dll in Scripts Folder
 3. Put PlayerUtility in Scripts Folder
 4. Put Player Utility Trainer Mod Banner Image in Scripts Folder (for newer version: 1.4 to Upcoming versions)
+
 **To use:**
 Press "B" to open the Menu.
 
