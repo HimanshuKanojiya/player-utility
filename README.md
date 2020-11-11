@@ -1,26 +1,48 @@
 # Player Utility
 Player Utility, A single Player Mod, which you allow to enhance your player skills, spawn your favorite vehicle, categorized weapon section, and lot's of features that will make your gaming fun better.
 
-**Note:** In an earlier version, the script was in one file. Incoming and current versions of mod divided into two parts:
-1. HsCore, it manages all heavy work, Game scripts, and bindings.
-2. PlayerUtility, it controls the GUI/Front End part to use the Hscore functions.
+**Some of the Features:**
+1. Player Options
+2. Ped Options (Beta, Not Completed)
+3. Weather Options
+4. Vehicle Options
+5. Teleport the Player
+6. Bodyguard Menu
+7. Enemies Menu
+About features: We always add & release new features every Monday, so it is hard to document all in a single place, and want to keep important info in the front so that users do not get irritated by seeing large paragraphs. To read all features, please go through changelogs, or explore the mod.
 
 **Requirement/Prerequisite to run 1.3 and for upcoming versions:**
-1. NativeUI (https://github.com/Guad/NativeUI/releases)
-2. Scripthookdotvnet2 (https://bit.ly/3oi6Elt)
+1. NativeUI 1.9.1 (https://github.com/Guad/NativeUI/releases)
+2. Scripthookdotvnet3 (https://bit.ly/3oi6Elt)
 3. Scripthookv (http://www.dev-c.com/gtav/scripthookv/)
-4. .Net Framework (https://bit.ly/2IM4Bpw)
+4. .Net Framework 4.8 (https://bit.ly/32A4Gnu)
 
 **How to install PlayerUtility**
 1. Put NativeUI.dll in Scripts Folder
-2. Put HsCore.dll in Scripts Folder
-3. Put PlayerUtility in Scripts Folder
-4. Put Player Utility Trainer Mod Banner Image in Scripts Folder (for newer version: 1.4 to Upcoming versions)
+2. Put Scripthookdotvnet3 files in the root (GTA 5) Folder
+3. Put Scripthookv files in the root (GTA 5) Folder
+4. Put All files/folders of "PlayerUtility Mod Files" folder to the Scripts Folder
 
-**To use:**
-Press "B" to open the Menu.
+**Note:** To use this Mod, Press: B. You can also change the activation key by changing the key in the PlayerUtilityModKeys.ini. Key Must be in capital format.
+
+**Instructions to use Music Player (Music Player available in Version 1.5):**
+1. To play your music in the game, put your song mp3 file in the PlayerUtilityMusicAlbum Folder.
+2. In the Music Player option, you will have some options like:
+3. Navigator to choose your favorite music. (If only one mp3 file in folder, please navigate so that music can be set)
+   1. Start
+   2. Play/Pause Button.
+   3. Close the music.
 
 **Change Logs:**
+
+**Changes in Version 1.5:**
+1. Now, the mod is compatible with the latest scripthook, scripthookdotnet3, and NativeUI 1.9.1 version.
+2. Added PlayerUtilityModKeys.ini for setting menu activation key (by default key: "B")
+3. Added Music Player in the player options menu:
+   1. It will allow you to play your favorite music while playing the game.
+4. Changed "Give me some cash" to "Give 1000 dollar Cash Drop".
+5. Some of the vehicle customization parts are removed but will be back in the next update.
+6. Added the option to change the license plate text.
 
 **Changes in Version 1.4:**
 1. Custom Player Utility Banner Added
@@ -101,3 +123,10 @@ To get more updates on Player Utility, Please stay connected.
 
 Player Utility is officially available on:
 https://www.gta5-mods.com/scripts/player-utility-himanshukanojiya
+
+**Credits:**
+1. For NAudio Library: https://github.com/naudio/NAudio
+2. For Music Player Demo, we have used this music:
+Track: Alex Skrindo & Miza
+Music provided by NoCopyrightSounds.
+Watch: https://bit.ly/36p1mws
