@@ -9,6 +9,7 @@ Player Utility, A single Player Mod, which you allow to enhance your player skil
 5. Teleport the Player
 6. Bodyguard Menu
 7. Enemies Menu
+
 About features: We always add & release new features every Monday, so it is hard to document all in a single place, and want to keep important info in the front so that users do not get irritated by seeing large paragraphs. To read all features, please go through changelogs, or explore the mod.
 
 **Requirement/Prerequisite to run mod**
